@@ -67,3 +67,9 @@ input {
 .btnCreateUser:hover {
     background-color: rgba(187, 9, 187, 0.941);
 }
+
+.error-box h3 {
+    text-align: center;
+    font-size: 1.8rem;
+    color: purple;
+}
